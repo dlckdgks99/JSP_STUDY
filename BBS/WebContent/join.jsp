@@ -20,13 +20,13 @@
 				<span class="icon-bar"></span>	
 				<span class="icon-bar"></span>	
 			</button>
-			<a class="navbar-brand" href="index.jsp">창한스 게시판</a>
+			<a class="navbar-brand" href="index.jsp">창한스 홈페이지</a>
 		</div>
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			<ul class="nav navbar-nav">
 				<li><a href="index.jsp">메인</a></li>
 				<li><a href="bbs.jsp">게시판</a></li>
-				<li><a href="http://naver.com">메인</a></li>
+				<li><a href="http://naver.com">네이버</a></li>
 				<li><a href="https://canvas.ssu.ac.kr/">스마트캠퍼스 대시보드</a></li>				
 				<li><a href="http://aix.ssu.ac.kr/main">AI융합학부 홈페이지</a></li>
 				

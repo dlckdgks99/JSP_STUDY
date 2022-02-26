@@ -8,6 +8,7 @@
 <meta name="viewport" content="width=device-width", initial-scale="1">
 <link rel="stylesheet" href="css/bootstrap.css">
 <link rel="stylesheet" href="css/custom.css">
+
 <title>창한's 홈페이지</title>
 </head>
 <body>
@@ -70,6 +71,14 @@
 			%>
 		</div>
 	</nav>
+	<div class="container">
+		<div class = "jumbotron">
+			<div class= "container">
+				<h1 style="align:center">Chang's Homepage</h1>
+			</div>
+		</div>
+	</div>
+	
 	<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 	<script src="js/bootstrap.js"></script>
 </body>
